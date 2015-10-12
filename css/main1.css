@@ -1,0 +1,136 @@
+/* css */
+
+body {
+    margin:0px;
+    padding:0px;
+    background-color:black;
+}
+
+#page {
+    padding:40px;
+}
+
+#header {
+    background-color:gray;
+    padding:0px;
+    color:white;
+}
+
+#header h1{
+    font-family: Verdana;
+    font-size:60pt;
+    padding:20px 40px;
+    margin:0px;
+}
+
+/* navigation */
+#nav, #nav a {
+    background-color:#ccc;
+    padding:10px;
+}
+
+#nav a {
+    margin:0px;
+    color:black;
+    font-family:arial;
+    text-decoration:none;
+    transition:color 2s, background-color 2s;
+}
+
+#nav a:hover {
+    background-color:#aaaaff;
+    color:white;
+    transition:color 2s, background-color 2s;
+}
+
+#content {
+    padding:20px 40px;
+    background-color:#eee;
+    margin:0px;
+}
+
+#content h2, #content h3 {
+    font-family: arial;
+}
+
+#footer {
+    background-color:black;
+    color:white;
+    margin:0px;
+    padding:20px 40px;
+}
+
+#footer a {
+    text-decoration:none;
+    color:white;
+}
+
+.spotlight {
+    background-color:pink;
+    padding:20px;
+}
+
+/*
+body{
+    margin:0px;
+    padding:0px;
+}
+
+#header{
+    background-color:gray;
+    padding:0px;
+    color:white;
+}
+
+#header h1{
+    padding:20px;
+    margin:0px;
+}
+
+#nav, #nav a{ 
+    background-color:#ccc;
+    padding:10px;
+}
+
+#nav a {
+    margin:0px;
+    color:black;
+    font-family:arial;
+    text-decoration:none;
+    transition:color 2s, background-color 2s;
+}
+
+#nav a:hover {
+    background-color:#aaaaff;
+    color:white;
+    transition:color 2s, background-color 2s;
+}
+*/
+/*
+#header{
+    background-color:gray;
+    width:400px;
+    padding:20px;
+    color:white;
+}
+
+#header:hover{
+    background-color:pink;
+    width:200px;
+    color:black;
+    transition: width 2s, background-color 2s, color 2s;
+}
+
+#header h2{
+    background-color:#6666ff;
+    padding:9px;
+    font-size:16px;
+}
+
+#header h2:hover{
+    background-color:#6666ff;
+    padding:9px;
+    font-size:30px;
+    transition: font-size 2s;
+}
+*/
