@@ -2,6 +2,8 @@
 body {
     margin:0px;
     padding:0px;
+    background:url("../images/patino.png") center center fixed;
+    background-size: cover;
     background-color:black;
 }
 
