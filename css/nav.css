@@ -1,0 +1,10 @@
+/* Same as CSS but has variables and nesting. */
+/* line 3, /Users/jasoncooksey/Sites/htmlcss/css/nav.scss */
+#container {
+  width: 960px;
+  margin: 0 auto; }
+  /* line 6, /Users/jasoncooksey/Sites/htmlcss/css/nav.scss */
+  #container p {
+    color: #0000ee; }
+
+/*# sourceMappingURL=nav.css.map */
