@@ -1,0 +1,20 @@
+body{
+  background-color:pink;
+}
+h1{
+  font-family:arial;
+  font-size:50px;
+}
+#header{
+  background-color:green;
+}
+#content{
+  background-color:yellow;
+}
+p {
+  background-color:white;
+  font-size:30px;
+}
+em {
+  background-color:orange;
+}
